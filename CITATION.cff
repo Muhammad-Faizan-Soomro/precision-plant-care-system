@@ -21,7 +21,7 @@ abstract: >
   Precision Plant Care is an AI-powered system designed to detect lemon leaf
   diseases using a hybrid deep learning pipeline combining One-Class SVM and
   MobileNetV2. The system integrates a mobile application, backend API,
-  cloud-hosted AI inference service, and a large language model based
+  AI inference service, and a large language model based
   treatment recommendation module to assist farmers in diagnosing plant
   diseases and receiving actionable treatment guidance in real time.
 
