@@ -1,6 +1,6 @@
 # System Architecture
 
-This document describes the overall architecture of the **Precision Plant Care System**, an AI-powered platform designed for real-time detection of lemon plant diseases and automated treatment recommendation.
+This document describes the overall architecture of the **Deep Learning-Based Framework for Real-Time Detection and Classification of Lemon Plant Leaf Diseases**, an AI-powered platform designed for real-time detection of lemon plant diseases and automated treatment recommendation.
 
 The system integrates **mobile computing, AI inference, backend APIs, and large language models** to provide a complete plant health monitoring solution.
 
@@ -19,12 +19,12 @@ The interaction between these components forms the complete disease detection an
 
 ```mermaid
 flowchart TD
-    A[📱 Mobile Application] --> B[🌐 Backend API]
-    B --> C[🖥️ AI Inference Server]
-    C --> D[🤖 Hybrid Model (OC-SVM + MobileNetV2)]
-    D --> E[🩺 Disease Prediction]
-    E --> F[💊 Treatment Recommendation Service]
-    F --> G[📱 Advice returned to Mobile Application]
+    A["📱 Mobile Application"] --> B["🌐 Backend API"]
+    B --> C["🖥️ AI Inference Server"]
+    C --> D["🤖 Hybrid Model (OC-SVM + MobileNetV2)"]
+    D --> E["🩺 Disease Prediction"]
+    E --> F["💊 Treatment Recommendation Service"]
+    F --> G["📱 Advice returned to Mobile Application"]
 ```
 ---
 
