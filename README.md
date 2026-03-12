@@ -1,4 +1,4 @@
-# Precision Plant Care System
+# Deep Learning-Based Framework for Real-Time Detection and Classification of Lemon Plant Leaf Diseases
 
 This repository serves as the **official research artifact repository for the manuscript submitted to the journal *The Visual Computer***.
 
