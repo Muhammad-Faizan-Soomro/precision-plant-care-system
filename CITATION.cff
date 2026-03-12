@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Precision Plant Care System"
+title: "Deep Learning-Based Framework for Real-Time Detection and Classification of Lemon Plant Leaf Diseases"
 message: "If you use this code or system in your research, please cite the associated manuscript submitted to The Visual Computer."
 type: software
 
@@ -18,7 +18,7 @@ authors:
 repository-code: "https://github.com/Muhammad-Faizan-Soomro/precision-plant-care-system"
 
 abstract: >
-  Precision Plant Care is an AI-powered system designed to detect lemon leaf
+  Deep Learning-Based Framework for Real-Time Detection and Classification of Lemon Plant Leaf Diseases is an AI-powered system designed to detect lemon leaf
   diseases using a hybrid deep learning pipeline combining One-Class SVM and
   MobileNetV2. The system integrates a mobile application, backend API,
   AI inference service, and a large language model based
