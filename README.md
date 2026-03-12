@@ -4,7 +4,7 @@ This repository serves as the **official research artifact repository for the ma
 
 The associated manuscript is titled:
 
-**Precision Plant Care – A System for Identifying and Treating Plant Diseases**
+**Deep Learning-Based Framework for Real-Time Detection and Classification of Lemon Plant Leaf Diseases**
 
 This project presents an **AI-powered mobile system for detecting lemon plant leaf diseases and generating treatment recommendations in real time**. The system combines deep learning, computer vision, and large language models to support early disease diagnosis and assist farmers with actionable treatment guidance.
 
@@ -193,7 +193,7 @@ See the LICENSE file for details.
 If you use this code or system in your research, please cite the following manuscript:
 
 
-Precision Plant Care – A System for Identifying and Treating Plant Diseases
+Deep Learning-Based Framework for Real-Time Detection and Classification of Lemon Plant Leaf Diseases
 
 ---
 
